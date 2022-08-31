@@ -1,5 +1,9 @@
-database
- user:maria
- password:123
-server
-port:8080
+database:
+ user: maria
+ password: 123
+server:
+port: 8080
+host: "localhost"
+email: 
+user: "Mariazinha"
+password: "654321"
